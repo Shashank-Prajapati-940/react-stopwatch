@@ -1,0 +1,42 @@
+.landing-section{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .row-container{
+        padding: 15px 40px;
+        margin-left: 700px;
+        display: flex;
+        background-color: black;
+        flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    filter: opacity(0.9);
+    .landing-heading{
+        font-family:'Times New Roman', Times, serif;
+        font-weight: 800;
+        font-size: 40px;
+        color: white;
+    }
+    .time-head{
+        font-family:serif;
+        font-weight: 600;
+        font-size: 40px;
+        color: white;
+        
+    }
+    }
+}
+.btn{
+    padding: 5px 15px;
+    border: groove;
+    border-radius: 8px;
+    margin: 0 10px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+}
