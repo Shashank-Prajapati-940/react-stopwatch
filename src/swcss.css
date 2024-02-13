@@ -6,7 +6,7 @@
     justify-content: center;
     .row-container{
         padding: 15px 40px;
-        margin-left: 700px;
+        
         display: flex;
         background-color: black;
         flex-direction: column;
